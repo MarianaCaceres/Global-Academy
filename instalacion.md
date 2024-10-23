@@ -1,0 +1,1 @@
+Para instalar x cosa necesitas 4 GB de RAM
