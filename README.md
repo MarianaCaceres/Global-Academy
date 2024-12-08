@@ -6,5 +6,5 @@
 Agregamos un archivo de instalación
 
 # CLASE 3
---Instalación de extensiones
---Introducción a MarkDown
+- Instalación de extensiones
+- Introducción a MarkDown
